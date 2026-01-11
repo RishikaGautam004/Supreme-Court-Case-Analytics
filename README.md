@@ -5,7 +5,7 @@ The goal of this project is to demonstrate how data analytics can support policy
 
 Page 1 — Judicial Case Overview & Disposal Performance
 Purpose: To understand how the judicial system handles workload over time and identify performance trends.
-![Page 1 - Judicial Overview](page1.png)
+![Page 1 - Judicial Overview](https://github.com/RishikaGautam004/Supreme-Court-Case-Analytics/blob/main/1%20page.png)
 
 
 
