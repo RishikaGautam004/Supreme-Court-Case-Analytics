@@ -11,10 +11,10 @@ Purpose: To understand how the judicial system handles workload over time and id
 
 Page 2 — Judgment Complexity & Structural Trends
 Purpose: To analyze whether judgments are becoming longer or more complex and how structural patterns evolve over decades.
-![Page 2 - Judgment Complexity](https://github.com/RishikaGautam004/Supreme-Court-Case-Analytics/blob/main/2%20page.png.png)
+![Page 2 - Judgment Complexity](https://github.com/RishikaGautam004/Supreme-Court-Case-Analytics/blob/main/2%20page.png)
 
 
 
 Page 3 — Judicial Behaviour & Case Dynamics
 Purpose: To evaluate stability, detect abnormal fluctuations, and understand long-term behavioral dynamics of the judicial system.
-![Page 3 - Judicial Behaviour](https://github.com/RishikaGautam004/Supreme-Court-Case-Analytics/blob/main/3%20page.png.png)
+![Page 3 - Judicial Behaviour](https://github.com/RishikaGautam004/Supreme-Court-Case-Analytics/blob/main/3%20page.png)
